@@ -1,0 +1,5 @@
+module TutelaSQLite3 {
+    header "t_sqlite3.h"
+    link "sqlite3"
+    export *
+}
